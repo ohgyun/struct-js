@@ -1,0 +1,9 @@
+{
+  "name": "struct-js",
+  "version": "0.1.0",
+  "description": "Struct for JavaScript using ArrayBuffer",
+  "main": "Struct.js",
+  "repository": "",
+  "author": "Ohgyun Ahn",
+  "license": "MIT"
+}
